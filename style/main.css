@@ -134,10 +134,10 @@ h1.title {
     animation-fill-mode: both; }
 
 .score-container:after {
-  content: "Score"; }
+  content: "Score Card"; }
 
 .best-container:after {
-  content: "Best"; }
+  content: "Best of ALL"; }
 
 p {
   margin-top: 0;
@@ -716,7 +716,7 @@ hr {
       border-radius: 3px;
       padding: 0 20px;
       text-decoration: none;
-      color: #f9f6f2;
+      color: #f9f6f1;
       height: 40px;
       line-height: 42px;
       cursor: pointer;
